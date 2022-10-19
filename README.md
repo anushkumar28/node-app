@@ -1,2 +1,2 @@
 # node-app
-Basic UI for Argo CD testing
+Basic code for Argo CD testing
